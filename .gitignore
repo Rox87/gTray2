@@ -1,0 +1,15 @@
+.venv
+.env
+build/
+dist/
+logs/*
+logs/app.log
+pessoal/__pycache__
+services/__pycache__
+__pycache__
+GTray.spec
+assets/k.cfg
+.superpowers
+teste/__pycache__
+assets/gtray_data.json
+

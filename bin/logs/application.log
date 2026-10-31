@@ -1,0 +1,635 @@
+2026-10-30 20:01:40 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:01:40 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:01:40 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:01:40 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:06:38 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:06:38 [INFO] [gTray]   • creation: F11 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:06:38 [INFO] [gTray]   • generic: F10 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:06:38 [INFO] [gTray]   • python: F9 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:06:38 [INFO] [gTray]   • upgrade: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:06:38 [INFO] [gTray] pressione F8 com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:06:38 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:06:46 [INFO] [gTray] Processando atalho 'upgrade'...
+2026-10-30 20:06:47 [INFO] [gTray] Prompt: ola
+2026-10-30 20:06:47 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:06:47 [WARN] [gTray] AI request failed (tentativas restantes: 13): https://api.deepseek.com/chat/completions: Connection Failed: tls connection init failed: invalid peer certificate: UnknownIssuer
+2026-10-30 20:06:50 [INFO] [gTray] Response received: Olá!...
+2026-10-30 20:06:50 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 20:06:50 [INFO] [gTray] resposta entregue
+2026-10-30 20:06:50 [INFO] [gTray] handle_ai_request levou 3.37475 segundos para executar.
+2026-10-30 20:07:03 [INFO] [gTray] Processando atalho 'upgrade'...
+2026-10-30 20:07:04 [INFO] [gTray] Prompt: oi
+2026-10-30 20:07:04 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:07:06 [INFO] [gTray] Response received: Olá....
+2026-10-30 20:07:06 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 20:07:06 [INFO] [gTray] resposta entregue
+2026-10-30 20:07:06 [INFO] [gTray] handle_ai_request levou 2.65005 segundos para executar.
+2026-10-30 20:07:13 [INFO] [gTray] Processando atalho 'upgrade'...
+2026-10-30 20:07:14 [INFO] [gTray] Prompt: ola
+2026-10-30 20:07:14 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:07:15 [INFO] [gTray] Response received: Olá....
+2026-10-30 20:07:15 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 20:07:15 [INFO] [gTray] resposta entregue
+2026-10-30 20:07:15 [INFO] [gTray] handle_ai_request levou 1.98174 segundos para executar.
+2026-10-30 20:08:03 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:08:03 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:08:03 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:08:03 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:08:25 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:08:25 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:08:25 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:08:25 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:08:28 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:08:28 [INFO] [gTray]   • creation: F11 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:08:28 [INFO] [gTray]   • generic: F7+CTRL+X (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:08:28 [INFO] [gTray]   • python: F9 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:08:28 [INFO] [gTray]   • upgrade: F8 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:08:28 [INFO] [gTray] pressione F8 com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:08:28 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:09:01 [INFO] [gTray] Processando atalho 'upgrade'...
+2026-10-30 20:09:02 [INFO] [gTray] Prompt: ola
+2026-10-30 20:09:02 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:09:02 [WARN] [gTray] AI request failed (tentativas restantes: 13): https://api.openai.com/v1/chat/completions: Connection Failed: tls connection init failed: invalid peer certificate: UnknownIssuer
+2026-10-30 20:09:03 [WARN] [gTray] AI request failed (tentativas restantes: 12): https://api.openai.com/v1/chat/completions: Connection Failed: tls connection init failed: invalid peer certificate: UnknownIssuer
+2026-10-30 20:09:03 [WARN] [gTray] AI request failed (tentativas restantes: 11): https://api.openai.com/v1/chat/completions: Connection Failed: tls connection init failed: invalid peer certificate: UnknownIssuer
+2026-10-30 20:09:04 [ERROR] [gTray] AI authentication error (verifique chave/provedor): https://api.openai.com/v1/chat/completions: status code 401
+2026-10-30 20:09:04 [ERROR] [gTray] Error in upgrade handler: https://api.openai.com/v1/chat/completions: status code 401
+2026-10-30 20:09:04 [INFO] [gTray] handle_ai_request levou 2.67090 segundos para executar.
+2026-10-30 20:09:27 [INFO] [gTray] Processando atalho 'upgrade'...
+2026-10-30 20:09:28 [INFO] [gTray] Prompt: ola
+2026-10-30 20:09:28 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:09:28 [ERROR] [gTray] AI authentication error (verifique chave/provedor): https://api.openai.com/v1/chat/completions: status code 401
+2026-10-30 20:09:28 [ERROR] [gTray] Error in upgrade handler: https://api.openai.com/v1/chat/completions: status code 401
+2026-10-30 20:09:28 [INFO] [gTray] handle_ai_request levou 0.80430 segundos para executar.
+2026-10-30 20:09:49 [INFO] [gTray] Processando atalho 'upgrade'...
+2026-10-30 20:09:50 [INFO] [gTray] Prompt: ola
+2026-10-30 20:09:50 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:09:50 [ERROR] [gTray] AI authentication error (verifique chave/provedor): https://api.openai.com/v1/chat/completions: status code 401
+2026-10-30 20:09:50 [ERROR] [gTray] Error in upgrade handler: https://api.openai.com/v1/chat/completions: status code 401
+2026-10-30 20:09:50 [INFO] [gTray] handle_ai_request levou 0.88610 segundos para executar.
+2026-10-30 20:10:14 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:10:14 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:10:14 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:10:14 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:10:26 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:10:26 [INFO] [gTray]   • creation: F11 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:10:26 [INFO] [gTray]   • generic: F7+CTRL+X (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:10:26 [INFO] [gTray]   • python: F9 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:10:26 [INFO] [gTray]   • upgrade: F8 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:10:26 [INFO] [gTray] pressione F8 com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:10:26 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:12:11 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:12:11 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:12:11 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:12:11 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:13:37 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:13:37 [INFO] [gTray]   • creation: F11 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:13:37 [INFO] [gTray]   • generic: F7+CTRL+X (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:13:37 [INFO] [gTray]   • python: F9 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:13:37 [INFO] [gTray]   • upgrade: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:13:37 [INFO] [gTray] pressione F8 com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:13:37 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:13:49 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:13:49 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:13:49 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:13:49 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:13:57 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:13:57 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:13:57 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:13:57 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:14:09 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:14:09 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:14:09 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:14:09 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:14:38 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:14:38 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:14:38 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:14:38 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:14:41 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:14:41 [INFO] [gTray]   • creation: F11 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:14:41 [INFO] [gTray]   • generic: F7+CTRL+X (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:14:41 [INFO] [gTray]   • python: F9 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:14:41 [INFO] [gTray]   • upgrade: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:14:41 [INFO] [gTray] pressione F8 com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:14:41 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:14:49 [INFO] [gTray] Processando atalho 'upgrade'...
+2026-10-30 20:14:50 [INFO] [gTray] Prompt: ola
+2026-10-30 20:14:50 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:14:52 [INFO] [gTray] Response received: Olá!...
+2026-10-30 20:14:52 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 20:14:52 [INFO] [gTray] resposta entregue
+2026-10-30 20:14:52 [INFO] [gTray] handle_ai_request levou 2.57642 segundos para executar.
+2026-10-30 20:16:00 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:16:00 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:16:00 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:16:00 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:16:03 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:16:03 [INFO] [gTray]   • creation: F11 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:16:03 [INFO] [gTray]   • generic: F7+CTRL+X (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:16:03 [INFO] [gTray]   • python: F9 (Status: Ativo | Modelo: gpt-4o-mini)
+2026-10-30 20:16:03 [INFO] [gTray]   • upgrade: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:16:03 [INFO] [gTray] pressione F8 com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:16:03 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:16:48 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:16:48 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:16:48 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:16:48 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:16:59 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:16:59 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:16:59 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:16:59 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:16:59 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:16:59 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:17:10 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:17:10 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:17:10 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:17:10 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:17:47 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:17:47 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:17:47 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:17:47 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:17:50 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:17:50 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:17:50 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:17:50 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:17:50 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:17:50 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:17:57 [INFO] [gTray] Processando atalho 'melhora o texto'...
+2026-10-30 20:17:57 [INFO] [gTray] Prompt: ola
+2026-10-30 20:17:57 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:17:59 [INFO] [gTray] Response received: Olá!...
+2026-10-30 20:17:59 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 20:17:59 [INFO] [gTray] resposta entregue
+2026-10-30 20:17:59 [INFO] [gTray] handle_ai_request levou 2.57411 segundos para executar.
+2026-10-30 20:18:31 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:18:31 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:18:31 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:18:31 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:18:34 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:18:34 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:18:34 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:18:34 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:18:34 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:18:34 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:18:44 [INFO] [gTray] Processando atalho 'melhora o texto'...
+2026-10-30 20:18:44 [INFO] [gTray] Prompt: ola
+2026-10-30 20:18:44 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:18:45 [WARN] [gTray] AI request failed (tentativas restantes: 13): https://api.deepseek.com/chat/completions: Connection Failed: tls connection init failed: invalid peer certificate: UnknownIssuer
+2026-10-30 20:18:47 [INFO] [gTray] Response received: Olá!...
+2026-10-30 20:18:47 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 20:18:47 [INFO] [gTray] resposta entregue
+2026-10-30 20:18:47 [INFO] [gTray] handle_ai_request levou 2.96340 segundos para executar.
+2026-10-30 20:19:00 [INFO] [gTray] Processando atalho 'melhora o texto'...
+2026-10-30 20:19:01 [INFO] [gTray] Prompt: ola
+2026-10-30 20:19:01 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 20:19:02 [INFO] [gTray] Response received: Olá....
+2026-10-30 20:19:02 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 20:19:02 [INFO] [gTray] resposta entregue
+2026-10-30 20:19:02 [INFO] [gTray] handle_ai_request levou 2.07854 segundos para executar.
+2026-10-30 20:21:48 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:21:48 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:21:48 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:21:48 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:22:17 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:22:17 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:22:17 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:22:17 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 20:22:17 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:22:17 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:22:17 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:22:17 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:22:17 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:22:17 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:23:00 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:23:00 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:23:00 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:23:00 [INFO] [gTray] Inicialização: Modo 1 (Interface Gráfica + Serviço Ativo).
+2026-10-30 20:23:00 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:23:00 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:23:00 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:23:00 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:23:00 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:23:00 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:23:06 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:23:06 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:23:06 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:23:06 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 20:23:06 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:23:06 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:23:06 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:23:06 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:23:06 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:23:06 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:27:54 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:27:54 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:27:54 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:27:54 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:28:26 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:28:26 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:28:26 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:28:26 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 20:28:27 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:28:27 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:28:27 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:28:27 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:28:27 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:28:27 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:31:35 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:31:35 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:31:35 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:31:35 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:48:40 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:48:40 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:48:40 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:48:40 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 20:49:06 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:49:06 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:49:06 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:49:06 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 20:49:06 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:49:06 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:49:06 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:49:06 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:49:06 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:49:06 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:51:02 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:51:02 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:51:02 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:51:02 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 20:51:02 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:51:02 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:51:02 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:51:02 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:51:02 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:51:02 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 20:53:47 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:53:47 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 20:53:47 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 20:53:47 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 20:53:47 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 20:53:47 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:53:47 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 20:53:47 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 20:53:47 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 20:53:47 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:02:36 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:02:36 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:02:36 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:02:36 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 21:02:50 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:02:50 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:02:50 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:02:50 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:02:50 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:02:50 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:02:50 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:02:50 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:02:50 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:02:50 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:03:10 [INFO] [gTray] Processando atalho 'melhora o texto'...
+2026-10-30 21:03:11 [INFO] [gTray] Prompt: ola
+2026-10-30 21:03:11 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 21:03:12 [INFO] [gTray] Response received: Olá....
+2026-10-30 21:03:12 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 21:03:12 [INFO] [gTray] resposta entregue
+2026-10-30 21:03:12 [INFO] [gTray] handle_ai_request levou 2.41773 segundos para executar.
+2026-10-30 21:03:30 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:03:30 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:03:30 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:03:30 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:03:30 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:03:30 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:03:30 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:03:30 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:03:30 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:03:30 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:06:28 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:06:28 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:06:28 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:06:28 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:06:28 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:06:28 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:06:28 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:06:28 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:06:28 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:06:28 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:07:18 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:07:18 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:07:18 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:07:18 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:07:18 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:07:18 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:07:18 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:07:18 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:07:18 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:07:18 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:09:43 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:09:43 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:09:43 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:09:43 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:09:43 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:09:43 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:09:43 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:09:43 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:09:43 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:09:43 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:09:52 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:09:52 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:09:52 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:09:52 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:09:52 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:09:52 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:09:52 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:09:52 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:09:52 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:09:52 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:12:32 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:12:32 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:12:32 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:12:32 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:12:32 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:12:32 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:12:32 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:12:32 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:12:32 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:12:32 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:12:45 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:12:45 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:12:45 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:12:45 [INFO] [gTray] Inicialização: Interface Gráfica de Configurações.
+2026-10-30 21:12:53 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:12:53 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:12:53 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:12:53 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:12:53 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:12:53 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:12:53 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:12:53 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:12:53 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:12:53 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:13:41 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:13:41 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:13:41 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:13:41 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:13:41 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:13:41 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:13:41 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:13:41 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:13:41 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:13:41 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:14:58 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:14:58 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:14:58 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:14:58 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:14:59 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:14:59 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:14:59 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:14:59 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:14:59 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:14:59 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:15:12 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:15:12 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:15:12 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:15:12 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:15:12 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:15:12 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:15:12 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:15:12 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:15:12 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:15:12 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:15:35 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:15:35 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:15:35 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:15:35 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:15:35 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:15:35 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:15:35 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:15:35 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:15:35 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:15:35 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:15:39 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:15:39 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:15:39 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:15:39 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:15:39 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:15:39 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:15:39 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:15:39 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:15:39 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:15:39 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:21:54 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:21:54 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:21:54 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:21:54 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:21:54 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:21:55 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:21:55 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:21:55 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:21:55 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:21:55 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:21:55 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:21:55 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:21:55 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:21:55 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:24:24 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:29:08 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:30:12 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:31:29 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:31:29 [INFO] [gTray] Verificando instâncias anteriores. PID atual: 48652
+2026-10-30 21:31:29 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:31:30 [INFO] [gTray] kill_previous_instances concluido.
+2026-10-30 21:31:30 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:31:30 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:31:30 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:31:30 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:32:28 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:32:28 [INFO] [gTray] Verificando instâncias anteriores. PID atual: 34324
+2026-10-30 21:32:28 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:32:29 [INFO] [gTray] kill_previous_instances concluido.
+2026-10-30 21:32:29 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:32:29 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:32:29 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:32:29 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:32:29 [INFO] [gTray] Chamando eframe::run_native...
+2026-10-30 21:32:29 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:32:29 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:32:29 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:32:29 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:32:29 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:32:29 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:32:29 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:32:29 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:32:29 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:33:15 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:33:15 [INFO] [gTray] Verificando instâncias anteriores. PID atual: 44728
+2026-10-30 21:33:16 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:33:16 [INFO] [gTray] kill_previous_instances concluido.
+2026-10-30 21:33:16 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:33:16 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:33:16 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:33:16 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:33:16 [INFO] [gTray] Chamando eframe::run_native...
+2026-10-30 21:33:17 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:33:17 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:33:17 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:33:17 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:33:17 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:33:17 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:33:17 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:33:17 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:33:17 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:33:54 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:33:54 [INFO] [gTray] Verificando instâncias anteriores. PID atual: 47328
+2026-10-30 21:33:54 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:33:55 [INFO] [gTray] kill_previous_instances concluido.
+2026-10-30 21:33:55 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:33:55 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:33:55 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:33:55 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:33:55 [INFO] [gTray] Chamando eframe::run_native...
+2026-10-30 21:33:56 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:33:56 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:33:56 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:33:56 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:33:56 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:33:56 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:33:56 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:33:56 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:33:56 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:35:14 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:35:14 [INFO] [gTray] Verificando instâncias anteriores. PID atual: 10868
+2026-10-30 21:35:14 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:35:15 [INFO] [gTray] kill_previous_instances concluido.
+2026-10-30 21:35:15 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:35:15 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:35:15 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:35:15 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:35:15 [INFO] [gTray] Chamando eframe::run_native...
+2026-10-30 21:35:16 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:35:16 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:35:16 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:35:16 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:35:16 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:35:16 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:35:16 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:35:16 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:35:16 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:37:49 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:37:49 [INFO] [gTray] Verificando instâncias anteriores. PID atual: 32488
+2026-10-30 21:37:50 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:37:50 [INFO] [gTray] kill_previous_instances concluido.
+2026-10-30 21:37:50 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:37:50 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:37:50 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:37:50 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:37:50 [INFO] [gTray] Chamando eframe::run_native...
+2026-10-30 21:37:50 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:37:50 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:37:50 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:37:50 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:37:50 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:37:50 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:37:50 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:37:50 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:37:50 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:38:01 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:38:01 [INFO] [gTray] Verificando instâncias anteriores. PID atual: 51492
+2026-10-30 21:38:01 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:38:02 [INFO] [gTray] kill_previous_instances concluido.
+2026-10-30 21:38:02 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:38:02 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:38:02 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:38:02 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:38:02 [INFO] [gTray] Chamando eframe::run_native...
+2026-10-30 21:38:02 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:38:02 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:38:02 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:38:02 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:38:02 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:38:02 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:38:02 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:38:02 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:38:02 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:38:21 [INFO] [gTray] Processando atalho 'melhora o texto'...
+2026-10-30 21:38:21 [INFO] [gTray] Prompt: ola
+2026-10-30 21:38:21 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 21:38:22 [WARN] [gTray] AI request failed (tentativas restantes: 13): https://api.deepseek.com/chat/completions: Connection Failed: tls connection init failed: invalid peer certificate: UnknownIssuer
+2026-10-30 21:38:23 [INFO] [gTray] Response received: Olá!...
+2026-10-30 21:38:23 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 21:38:23 [INFO] [gTray] resposta entregue
+2026-10-30 21:38:23 [INFO] [gTray] handle_ai_request levou 2.72325 segundos para executar.
+2026-10-30 21:38:32 [INFO] [gTray] Processando atalho 'melhora o texto'...
+2026-10-30 21:38:32 [INFO] [gTray] Prompt: ola
+2026-10-30 21:38:32 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 21:38:33 [INFO] [gTray] Response received: Olá....
+2026-10-30 21:38:33 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 21:38:33 [INFO] [gTray] resposta entregue
+2026-10-30 21:38:33 [INFO] [gTray] handle_ai_request levou 1.84127 segundos para executar.
+2026-10-30 21:39:21 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:39:21 [INFO] [gTray] Verificando instâncias anteriores. PID atual: 36796
+2026-10-30 21:39:22 [INFO] [gTray] taskkill: INFORMA��ES: nenhuma tarefa em execu��o com os crit�rios especificados.
+2026-10-30 21:39:22 [INFO] [gTray] kill_previous_instances concluido.
+2026-10-30 21:39:22 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:39:22 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:39:22 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:39:22 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:39:22 [INFO] [gTray] Chamando eframe::run_native...
+2026-10-30 21:39:22 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:39:22 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:39:22 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:39:22 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:39:22 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:39:22 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:39:22 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:39:22 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:39:22 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:39:28 [INFO] [gTray] Processando atalho 'melhora o texto'...
+2026-10-30 21:39:29 [INFO] [gTray] Prompt: ola
+2026-10-30 21:39:29 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 21:39:30 [INFO] [gTray] Response received: Olá....
+2026-10-30 21:39:30 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 21:39:30 [INFO] [gTray] resposta entregue
+2026-10-30 21:39:30 [INFO] [gTray] handle_ai_request levou 2.20400 segundos para executar.
+2026-10-30 21:41:32 [INFO] [gTray] Ponto de entrada main() atingido.
+2026-10-30 21:41:32 [INFO] [gTray] Verificando instâncias anteriores. PID atual: 12356
+2026-10-30 21:41:32 [INFO] [gTray] taskkill: �XITO: o processo "gtray.exe" com PID 36796 foi finalizado.
+2026-10-30 21:41:33 [INFO] [gTray] kill_previous_instances concluido.
+2026-10-30 21:41:33 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:41:33 [INFO] [gTray]   Iniciando gTray (Rust)
+2026-10-30 21:41:33 [INFO] [gTray] ════════════════════════════════════════════════════════════
+2026-10-30 21:41:33 [INFO] [gTray] Inicialização: Modo 2 (Segundo plano na bandeja do sistema).
+2026-10-30 21:41:33 [INFO] [gTray] Chamando eframe::run_native...
+2026-10-30 21:41:33 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:41:33 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:41:33 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:41:33 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:41:33 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:41:33 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:41:33 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:41:33 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:41:33 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:41:49 [INFO] [gTray] Processando atalho 'melhora o texto'...
+2026-10-30 21:41:49 [INFO] [gTray] Prompt: ola
+2026-10-30 21:41:49 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 21:41:51 [INFO] [gTray] Response received: Olá!...
+2026-10-30 21:41:51 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 21:41:51 [INFO] [gTray] resposta entregue
+2026-10-30 21:41:51 [INFO] [gTray] handle_ai_request levou 2.48129 segundos para executar.
+2026-10-30 21:46:29 [INFO] [gTray] Processando atalho 'melhora o texto'...
+2026-10-30 21:46:29 [INFO] [gTray] Prompt: ola
+2026-10-30 21:46:29 [INFO] [gTray] Consultando provedor de Inteligência Artificial...
+2026-10-30 21:46:31 [INFO] [gTray] Response received: Olá....
+2026-10-30 21:46:31 [INFO] [gTray] Resposta da IA recebida e aplicada com sucesso.
+2026-10-30 21:46:31 [INFO] [gTray] resposta entregue
+2026-10-30 21:46:31 [INFO] [gTray] handle_ai_request levou 2.22297 segundos para executar.
+2026-10-30 21:47:22 [INFO] [gTray] Serviço pausado.
+2026-10-30 21:47:52 [INFO] [gTray] Atalhos cadastrados no sistema:
+2026-10-30 21:47:52 [INFO] [gTray]   • melhora o texto: F8 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:47:52 [INFO] [gTray]   • python: F10 (Status: Ativo | Modelo: deepseek-flash | Extração de blocos: Ativa)
+2026-10-30 21:47:52 [INFO] [gTray]   • resposta simples: F9 (Status: Ativo | Modelo: deepseek-flash)
+2026-10-30 21:47:52 [INFO] [gTray] pressione o atalho configurado com um texto selecionado em um campo editável e aguarde...
+2026-10-30 21:47:52 [INFO] [gTray] Serviço iniciado com sucesso.
+2026-10-30 21:47:52 [INFO] [gTray] Atalho 'melhora o texto' ativado no sistema com sucesso.
+2026-10-30 21:47:52 [INFO] [gTray] Atalho 'python' ativado no sistema com sucesso.
+2026-10-30 21:47:52 [INFO] [gTray] Atalho 'resposta simples' ativado no sistema com sucesso.
+2026-10-30 21:48:53 [INFO] [gTray] Serviço pausado.

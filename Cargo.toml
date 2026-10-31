@@ -1,0 +1,33 @@
+[package]
+name = "gtray"
+version = "0.2.0"
+edition = "2021"
+authors = ["gTray Team"]
+description = "Assistente de Inteligência Artificial para Windows integrado via Atalhos Globais e Bandeja do Sistema."
+
+[dependencies]
+eframe = { version = "0.37", default-features = true }
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+ureq = { version = "2.12", features = ["json"] }
+regex = "1.10"
+chrono = "0.4"
+arboard = "3.4"
+image = { version = "0.25", default-features = false, features = ["png"] }
+windows-sys = { version = "0.59", features = [
+    "Win32_UI_WindowsAndMessaging",
+    "Win32_UI_Input_KeyboardAndMouse",
+    "Win32_Foundation",
+    "Win32_System_Threading",
+    "Win32_System_LibraryLoader",
+    "Win32_UI_Shell",
+    "Win32_Graphics_Gdi"
+] }
+
+[[bin]]
+name = "gtray"
+path = "src/main.rs"
+
+[lib]
+name = "gtray"
+path = "src/lib.rs"

@@ -1,0 +1,50 @@
+{
+  "app": {
+    "title": "gTray",
+    "favicon": "assets/favicon.png",
+    "lbl_shortcut_state_rec": "Pressione uma combinação do teclado",
+    "retry_clip": 140,
+    "retry_ia": 14,
+    "log": "logs/app.log",
+    "theme": "dark"
+  },
+  "providers": {
+    "deepseek": {
+      "api_key": "sk-32f4bffae15d440f80b77afe4db72420"
+    }
+  },
+  "models": {
+    "deepseek-flash": {
+      "provider": "deepseek"
+    },
+    "deepseek-flash2": {
+      "provider": "deepseek"
+    }
+  },
+  "shortcuts": {
+    "melhora o texto": {
+      "key": "F8",
+      "model": "deepseek-flash",
+      "system_prompt": "Sem rodeios, retorne apenas o texto do usuário, melhorado",
+      "extract_blocks": false,
+      "comment_char": "#",
+      "enabled": true
+    },
+    "python": {
+      "key": "F10",
+      "model": "deepseek-flash",
+      "system_prompt": "Código Python",
+      "extract_blocks": true,
+      "comment_char": "#",
+      "enabled": true
+    },
+    "resposta simples": {
+      "key": "F9",
+      "model": "deepseek-flash",
+      "system_prompt": "seja breve na resposta ao usuário",
+      "extract_blocks": false,
+      "comment_char": "#",
+      "enabled": true
+    }
+  }
+}
